@@ -1,0 +1,15 @@
+The python2 program can be run by executing the command as follows:
+    
+    python V00864456.py 2.in
+    or
+    python V00864456-local.py 2.in
+
+The 2.in is the name of the input file and is structured as follows:
+
+    ATCAGAGTC
+    TTCAGTC
+
+Thank you for your time,
+
+Amir Afshar
+V00864456
