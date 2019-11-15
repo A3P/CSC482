@@ -1,0 +1,21 @@
+The python program can be run by executing the command as follows:
+    
+    python V00864456.py 3.in
+
+The 3.in is the name of the input file and is in FASTA format:
+
+    >S1
+    GTTAAACATCTCCTC
+    >S2
+    GTGAAACAACATGAC
+    >S3
+    GTTAAACATGTGGAC
+    >S4
+    GCACAGATGTCGCCT
+    >S5
+    GTCTTACTGGCATGA
+
+Thank you for your time,
+
+Amir Afshar
+V00864456
