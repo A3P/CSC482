@@ -1,0 +1,13 @@
+The python program can be run by executing the command as follows:
+    
+    python V00864456.py 4.in
+
+The 4.in is the name of the input file and is in FASTA format:
+
+    >S1
+    GGCACTGAA
+    
+Thank you for your time,
+
+Amir Afshar
+V00864456
